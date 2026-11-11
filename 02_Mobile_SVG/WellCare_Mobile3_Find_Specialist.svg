@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.inkscape.org/namespaces/inkscape" xmlns:ns2="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="1474.0157" height="3189.9211" viewBox="0 0 390 843.99997" version="1.1" id="svg1" ns1:version="1.4.4 (dcaf3e7, 2026-05-05)" ns2:docname="WellCare_Mobile3_Find_Specialist.svg">
+  <ns2:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns1:showpageshadow="2" ns1:pageopacity="0.0" ns1:pagecheckerboard="0" ns1:deskcolor="#d1d1d1" ns1:document-units="mm" showguides="true" ns1:zoom="0.23919087" ns1:cx="735.81405" ns1:cy="1594.9606" ns1:window-width="1196" ns1:window-height="981" ns1:window-x="675" ns1:window-y="0" ns1:window-maximized="0" ns1:current-layer="layer1">
+    <ns2:guide position="7.8251653,848.47149" orientation="0,-1" id="guide1" ns1:locked="false" />
+    <ns2:guide position="11.178808,851.82514" orientation="0,-1" id="guide2" ns1:locked="false" />
+  </ns2:namedview>
+  <ns0:defs id="defs1">
+    <ns0:rect x="-105.62653" y="485.88203" width="346.45501" height="42.250611" id="rect13" />
+  </ns0:defs>
+  <ns0:g ns1:label="Layer 1" ns1:groupmode="layer" id="layer1">
+    <ns0:g id="layer1-6" transform="matrix(3.7088975,0,0,3.7088975,1.2160999,10.8462)">
+      <ns0:rect style="fill:#0000ff;stroke:#000080;stroke-width:0.207294" id="rect1" width="104.19822" height="9.7753744" x="0.35557285" y="-2.3339481" />
+    </ns0:g>
+    <ns0:rect style="fill:#0000ff;stroke:#000080;stroke-width:0.196062" id="rect2" width="7.0129752" height="806.62384" x="2.1219962" y="39.389626" ry="1.1178818" />
+    <ns0:rect style="fill:#0000ff;stroke:#000080;stroke-width:0.195926" id="rect2-8" width="5.8952332" height="806.62402" x="383.18826" y="36.447285" ry="1.1163132" />
+    <ns0:rect style="fill:none;stroke:#f9f9f9;stroke-width:0.264583" id="rect4" width="0" height="1.1178589" x="31.300659" y="837.29266" ry="0.55892944" />
+    <ns0:rect style="fill:none;stroke:#f9f9f9;stroke-width:0.264583" id="rect5" width="0" height="4.4715405" x="42.479469" y="836.1748" ry="0.55894905" />
+    <ns0:rect style="fill:none;stroke:#f9f9f9;stroke-width:0.264583" id="rect6" width="0" height="0" x="53.658272" y="838.41052" ry="0" />
+    <ns0:rect style="fill:none;stroke:#f9f9f9;stroke-width:0.264583" id="rect7" width="26.829138" height="2.2357614" x="4.4715228" y="833.93903" ry="1.1178807" />
+    <ns0:rect style="fill:none;stroke:#f9f9f9;stroke-width:0.264583" id="rect8" width="0" height="0" x="10.060926" y="840.6463" ry="0" />
+    <ns0:rect style="fill:none;stroke:#f9f9f9;stroke-width:0.264583" id="rect9" width="0" height="10.06094" x="49.186752" y="827.23181" ry="1.1178807" />
+    <ns0:rect style="fill:#000080;stroke:#f9f9f9;stroke-width:0.265363" id="rect10" width="380.07867" height="10.090605" x="6.7672219" y="834.409" ry="0" />
+    <ns0:rect style="fill:#000080;stroke:#f9f9f9;stroke-width:0.268678" id="rect12" width="229.3065" height="39.731323" x="78.253708" y="62.603367" ry="1.1335889" />
+    <ns0:text xml:space="preserve" transform="scale(0.26458333)" id="text12" style="font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect13);display:inline;fill:#000080;stroke:#f9f9f9" />
+    <ns0:text xml:space="preserve" style="font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#000080;stroke:#f9f9f9;stroke-width:0.264583" x="90.54834" y="147.56026" id="text14"><ns0:tspan ns2:role="line" id="tspan14" style="stroke-width:0.264583" x="90.54834" y="147.56026" /></ns0:text>
+    <ns0:text xml:space="preserve" style="font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:119.863;display:inline;fill:#000080;stroke:#f9f9f9;stroke-width:0.264583" x="117.37747" y="89.430458" id="text15" transform="matrix(2.0518472,0,0,2.7719561,-102.23572,-157.79141)"><ns0:tspan x="117.37747" y="89.430458" id="tspan1">Find a Specialist.</ns0:tspan></ns0:text>
+    <ns0:text xml:space="preserve" style="font-size:18.1742px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#000080;stroke:#f9f9f9;stroke-width:0.757257" x="13.434228" y="29.351803" id="text16"><ns0:tspan ns2:role="line" id="tspan16" style="stroke-width:0.757257" x="13.434228" y="29.351803">WellCare Connec</ns0:tspan></ns0:text>
+    <ns0:g id="layer1-0" transform="translate(260.00815,22.618722)">
+      <ns0:text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.575px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#f9f9f9;stroke-width:0.89896" x="70.846581" y="8.5905504" id="text2" transform="scale(1.1076955,0.9027752)"><ns0:tspan ns2:role="line" id="tspan2" style="stroke-width:0.89896" x="70.846581" y="8.5905504">☰</ns0:tspan></ns0:text>
+    </ns0:g>
+    <ns0:g id="layer1-61" transform="matrix(1.0189357,0,0,1.1253663,-4.0289671,58.398733)" style="fill:#f9f9f9">
+      <ns0:rect style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:0.268678" id="rect12-5" width="229.3065" height="39.731323" x="78.253708" y="62.603367" ry="1.1335889" />
+    </ns0:g>
+    <ns0:text xml:space="preserve" style="font-size:15.1749px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.632288" x="127.6072" y="124.69006" id="text17" transform="scale(0.79697887,1.2547384)"><ns0:tspan ns2:role="line" id="tspan17" style="fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.632288" x="127.6072" y="124.69006">Search doctors or specialties</ns0:tspan></ns0:text>
+    <ns0:text xml:space="preserve" style="font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:66.944;display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:0.264583" x="77.133766" y="198.98276" id="text18" transform="matrix(1.7328019,0,0,1.7328019,-56.827538,-142.27954)"><ns0:tspan x="77.133766" y="198.98276" id="tspan3">Speciality</ns0:tspan></ns0:text>
+    <ns0:text xml:space="preserve" style="font-size:14.9643px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.623514" x="70.0438" y="254.50699" id="text19" transform="scale(1.2450961,0.80315085)"><ns0:tspan ns2:role="line" id="tspan19" style="fill:#000080;stroke-width:0.623514" x="70.0438" y="254.50699">Speciality</ns0:tspan></ns0:text>
+    <ns0:rect style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.0943624" id="rect19" width="87.3125" height="15.150113" x="74.89801" y="214.6331" />
+    <ns0:text xml:space="preserve" style="font-size:23.1775px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.965727" x="114.39426" y="213.57326" id="text20" transform="scale(0.87788304,1.1391039)"><ns0:tspan ns2:role="line" id="tspan20" style="fill:#000080;stroke-width:0.965727" x="114.39426" y="213.57326">All Specialities ▼.</ns0:tspan></ns0:text>
+    <ns0:rect style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.192684" id="rect20" width="147.35257" height="31.75" x="120.36708" y="273.88077" />
+    <ns0:text xml:space="preserve" style="font-size:17.196px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.716498" x="154.71133" y="239.71544" id="text21" transform="scale(0.81202638,1.2314871)"><ns0:tspan ns2:role="line" id="tspan21" style="fill:#000080;stroke-width:0.716498" x="154.71133" y="239.71544">Dr. Sarah Ahmed</ns0:tspan></ns0:text>
+    <ns0:g id="layer1-9" transform="translate(16.648475,42.47803)">
+      <ns0:rect style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.192684" id="rect20-7" width="147.35257" height="31.75" x="103.96291" y="273.88077" />
+    </ns0:g>
+    <ns0:text xml:space="preserve" style="font-size:13.3376px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.555734" x="198.90457" y="217.75471" id="text22" transform="scale(0.64445601,1.5516963)"><ns0:tspan ns2:role="line" id="tspan22" style="fill:#000080;stroke-width:0.555734" x="198.90457" y="217.75471">Cardiologist — Heart Specialist</ns0:tspan></ns0:text>
+    <ns0:rect style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.318131" id="rect22" width="149.25745" height="37.475182" x="120.40331" y="352.92389" />
+    <ns0:text xml:space="preserve" style="font-size:16.4365px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.684855" x="176.14062" y="293.77896" id="text23" transform="scale(0.77113869,1.2967836)"><ns0:tspan ns2:role="line" id="tspan23" style="fill:#f9f9f9;stroke-width:0.684855" x="176.14062" y="293.77896">Book Appointment</ns0:tspan></ns0:text>
+    <ns0:text xml:space="preserve" style="font-size:19.9459px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.831079" x="58.255428" y="851.12" id="text24" transform="scale(1.0400451,0.96149679)"><ns0:tspan ns2:role="line" id="tspan24" style="fill:#000080;stroke-width:0.831079" x="58.255428" y="851.12">© 2026 WellCare Connect</ns0:tspan></ns0:text>
+    <ns0:g id="layer1-60" transform="translate(2.9103034,136.10229)">
+      <ns0:rect style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.192684" id="rect20-1" width="147.35257" height="31.75" x="120.36708" y="273.88077" />
+    </ns0:g>
+    <ns0:text xml:space="preserve" style="font-size:17.7013px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.737552" x="178.3537" y="326.70389" id="text25" transform="scale(0.75389366,1.326447)"><ns0:tspan ns2:role="line" id="tspan25" style="fill:#000080;stroke-width:0.737552" x="178.3537" y="326.70389">Dr. James Wilson</ns0:tspan></ns0:text>
+    <ns0:g id="layer1-5" transform="translate(-8.8971113,45.463574)">
+      <ns0:g id="layer1-60-4" transform="translate(2.9103034,136.10229)">
+        <ns0:rect style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.192684" id="rect20-1-1" width="147.35257" height="31.75" x="130.32253" y="272.7746" />
+        <ns0:text xml:space="preserve" style="font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:128.888;display:inline;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.264583" x="138.726" y="291.87054" id="text26" transform="matrix(1.1857547,0,0,4.0646244,-25.884303,-889.64371)"><ns0:tspan x="138.726" y="291.87054" id="tspan4">Dermatologist — Skin Specialist</ns0:tspan></ns0:text>
+      </ns0:g>
+    </ns0:g>
+    <ns0:g id="layer1-1" transform="translate(6.6260669,140.52402)">
+      <ns0:rect style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.318131" id="rect22-4" width="149.25745" height="37.475182" x="120.40331" y="352.92389" />
+    </ns0:g>
+    <ns0:text xml:space="preserve" style="font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.264583" x="134.95149" y="515.47046" id="text27"><ns0:tspan ns2:role="line" id="tspan27" style="stroke-width:0.264583" x="134.95149" y="515.47046" /></ns0:text>
+    <ns0:g id="layer1-17" transform="translate(2.6333702,137.67008)">
+      <ns0:text xml:space="preserve" style="font-size:16.4365px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.684855" x="176.14062" y="293.77896" id="text23-7" transform="scale(0.77113869,1.2967836)"><ns0:tspan ns2:role="line" id="tspan23-7" style="fill:#f9f9f9;stroke-width:0.684855" x="176.14062" y="293.77896">Book Appointment</ns0:tspan></ns0:text>
+    </ns0:g>
+  </ns0:g>
+<ns0:a href="WellCare_Mobile_Home.svg" target="_self" aria-label="Return to mobile home"><ns0:title>Return to mobile home</ns0:title><ns0:rect x="0" y="0" width="253.5" height="54.85999805" fill="#ffffff" fill-opacity="0.001" stroke="none" pointer-events="all" /></ns0:a><ns0:a href="WellCare_Mobile_Home.svg" target="_self" aria-label="Return home menu"><ns0:title>Return home menu</ns0:title><ns0:rect x="331.5" y="0" width="58.5" height="54.85999805" fill="#ffffff" fill-opacity="0.001" stroke="none" pointer-events="all" /></ns0:a><ns0:a href="WellCare_Mobile4_Book_Appointment.svg" target="_self" aria-label="Book appointment"><ns0:title>Book appointment</ns0:title><ns0:rect x="125" y="270" width="220" height="42" fill="#ffffff" fill-opacity="0.001" stroke="none" pointer-events="all" /></ns0:a></ns0:svg>
